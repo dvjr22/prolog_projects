@@ -11,7 +11,7 @@ Can ask the program the location of blocks in the world model
 ## Crossword Puzzle
 Solves a simple 3x3 puzzle with arc constraint based on a list of words
 - Files:
- - crossword_puzzle
+  - crossword_puzzle
 
 ## KenKen Puzzle
 Solves a 4x4 KenKen puzzle based on the constraints
